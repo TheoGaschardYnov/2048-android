@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "217171783272",
+    "project_id": "cours-ynov",
+    "storage_bucket": "cours-ynov.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217171783272:android:0ba69f681da829961ad5dd",
+        "android_client_info": {
+          "package_name": "com.ynov.rtx2048"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217171783272-p5ul28qk6ud59tak2nhf47o6vspoccq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtHZyexzNwj8ziHFCWAXcqTdXckTEeeNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217171783272-p5ul28qk6ud59tak2nhf47o6vspoccq0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
